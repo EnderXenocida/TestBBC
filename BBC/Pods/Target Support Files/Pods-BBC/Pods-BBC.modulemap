@@ -1,0 +1,6 @@
+framework module Pods_BBC {
+  umbrella header "Pods-BBC-umbrella.h"
+
+  export *
+  module * { export * }
+}
